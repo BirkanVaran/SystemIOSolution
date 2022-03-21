@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIODirectorySolution", "SystemIODirectorySolution\SystemIODirectorySolution.csproj", "{076B7C22-35A6-4505-B02C-653B86798FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryConsoleOrnek", "DirectoryConsoleOrnek\DirectoryConsoleOrnek.csproj", "{CC0CA073-3158-4EC9-A9CB-C838057CFE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOrnekBetulHoca", "ConsoleAppOrnekBetulHoca\ConsoleAppOrnekBetulHoca.csproj", "{162F006A-9B03-4E4E-BEBD-A3D4DF64D76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIOFileConsoleApp", "SystemIOFileConsoleApp\SystemIOFileConsoleApp.csproj", "{30C24FB1-4722-4854-B831-25EA6E4AD37B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySerializationFormApp", "BinarySerializationFormApp\BinarySerializationFormApp.csproj", "{9F9962C4-A19A-431A-9FBF-EB7658593D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIOWindowsFormApp", "SystemIOWindowsFormApp\SystemIOWindowsFormApp.csproj", "{9FD9C4B2-74A8-4288-8A35-F98527ADBDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076B7C22-35A6-4505-B02C-653B86798FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076B7C22-35A6-4505-B02C-653B86798FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076B7C22-35A6-4505-B02C-653B86798FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076B7C22-35A6-4505-B02C-653B86798FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0CA073-3158-4EC9-A9CB-C838057CFE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0CA073-3158-4EC9-A9CB-C838057CFE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0CA073-3158-4EC9-A9CB-C838057CFE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0CA073-3158-4EC9-A9CB-C838057CFE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162F006A-9B03-4E4E-BEBD-A3D4DF64D76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162F006A-9B03-4E4E-BEBD-A3D4DF64D76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162F006A-9B03-4E4E-BEBD-A3D4DF64D76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162F006A-9B03-4E4E-BEBD-A3D4DF64D76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C24FB1-4722-4854-B831-25EA6E4AD37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C24FB1-4722-4854-B831-25EA6E4AD37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C24FB1-4722-4854-B831-25EA6E4AD37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C24FB1-4722-4854-B831-25EA6E4AD37B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9962C4-A19A-431A-9FBF-EB7658593D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9962C4-A19A-431A-9FBF-EB7658593D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9962C4-A19A-431A-9FBF-EB7658593D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9962C4-A19A-431A-9FBF-EB7658593D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD9C4B2-74A8-4288-8A35-F98527ADBDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD9C4B2-74A8-4288-8A35-F98527ADBDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD9C4B2-74A8-4288-8A35-F98527ADBDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD9C4B2-74A8-4288-8A35-F98527ADBDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D903B2-4A46-428E-8873-C275CA13978E}
+	EndGlobalSection
+EndGlobal
